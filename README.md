@@ -4,8 +4,8 @@
 
 **Building production-grade AI systems and autonomous agent architectures.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-samirautanen.fi-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://samirautanen.fi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sami_Rautanen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sami-rautanen-022095325)
+[![samirautanen.fi](https://img.shields.io/badge/samirautanen.fi-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://samirautanen.fi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sami-rautanen-022095325)
 
 ---
 
