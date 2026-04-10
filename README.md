@@ -23,12 +23,10 @@ I architect and implement **autonomous AI agent systems** end-to-end — from cl
 
 | Project | Stack | What it does |
 |---|---|---|
-| **CareAssist AI** | AWS SQS · Lambda · Aurora | Autonomous agent — converts freeform nursing notes to structured medical data |
-| **AI Trading Floor** | MCP · LibSQL · Gradio | 4 autonomous AI traders with real-time portfolio monitoring |
-| **EngineeringTeam Crew** | CrewAI · Claude 3.7 · GPT-4o | 4-agent software team that builds full Python apps from requirements |
-| **ContractSense AI** | Claude 3.7 · FastAPI | Legal-grade contract risk analysis in 30 seconds, no login required |
-| **Sidekick AI** | LangGraph · Playwright | Worker-Evaluator agent with live browser and Python REPL tools |
-| **Digital Twin (AWS)** | Gemini · Lambda · DynamoDB | Conversational AI that represents me with persistent memory |
+| **[Digital Twin (AWS)](https://github.com/Samrude1/Digital-Twin-AWS)** | Gemini · Lambda · DynamoDB · Terraform | Conversational AI digital twin with persistent memory — fully deployed on AWS |
+| **[AgentSquad](https://github.com/Samrude1/Agentsquad)** | CrewAI · OpenAI Agents SDK · Python | Multi-framework AI agent platform with specialized sales, research & meeting-prep teams |
+| **[SaaS AI](https://github.com/Samrude1/SaaS_AI)** | TypeScript · FastAPI · Claude | Enterprise AI meeting intelligence — automated summaries and action items |
+| **[ChessAI](https://github.com/Samrude1/ChessAI)** | TypeScript · Stockfish · LLM | Stockfish engine with real-time AI-powered chess commentary |
 
 ---
 
