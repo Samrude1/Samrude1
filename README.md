@@ -1,10 +1,10 @@
 # Hi, I'm Sami Rautanen 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&width=500&lines=AI+Platform+Engineer;AWS+Serverless+%7C+Terraform+%7C+IaC;Autonomous+Agent+Systems;Multi-Agent+Orchestration)](https://samirautanen.fi)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&width=500&lines=AI+Platform+Engineer;AWS+Serverless+%7C+Terraform+%7C+IaC;Autonomous+Agent+Systems;Multi-Agent+Orchestration)
 
 **Building production-grade AI systems and autonomous agent architectures.**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-samirautanen.fi-3B82F6?style=for-the-badge)](https://samirautanen.fi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-samirautanen.fi-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://samirautanen.fi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sami_Rautanen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sami-rautanen-022095325)
 
 ---
@@ -66,4 +66,4 @@ I architect and implement **autonomous AI agent systems** end-to-end — from cl
 
 *"Building systems that think, reason and act autonomously."*
 
-📬 samrude1@outlook.com · 🌐 [samirautanen.fi](https://samirautanen.fi)
+📬 samrude1@outlook.com
