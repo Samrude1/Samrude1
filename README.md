@@ -19,14 +19,28 @@ I architect and implement **autonomous AI agent systems** end-to-end — from cl
 
 ---
 
-## 🔥 Featured Projects
+## 🏆 Featured AI Agent Solutions
 
-| Project | Stack | What it does |
+| Project | Stack | Description |
 |---|---|---|
-| **[Digital Twin (AWS)](https://github.com/Samrude1/Digital-Twin-AWS)** | Gemini · Lambda · DynamoDB · Terraform | Conversational AI digital twin with persistent memory — fully deployed on AWS |
-| **[AgentSquad](https://github.com/Samrude1/Agentsquad)** | CrewAI · OpenAI Agents SDK · Python | Multi-framework AI agent platform with specialized sales, research & meeting-prep teams |
-| **[SaaS AI](https://github.com/Samrude1/SaaS_AI)** | TypeScript · FastAPI · Claude | Enterprise AI meeting intelligence — automated summaries and action items |
-| **[ChessAI](https://github.com/Samrude1/ChessAI)** | TypeScript · Stockfish · LLM | Stockfish engine with real-time AI-powered chess commentary |
+| **[CareAssist AI](https://github.com/Samrude1/Digital-Twin-AWS)** | AWS · SQS · Lambda · Aurora | **HealthTech:** Autonomous patient note structuring and triage for the Sote-sector. |
+| **[EngineeringTeam Crew](https://github.com/Samrude1/Agentsquad)** | CrewAI · Claude 3.7 · GPT-4 | **Automation:** Full autonomous software team drafting, coding, and testing Python apps. |
+| **[AgentSquad](https://github.com/Samrude1/Agentsquad)** | CrewAI · OpenAI SDK · Gemini | **Orchestration:** Multi-framework platform with specialized sales and research agent teams. |
+| **[Digital Twin (AWS)](https://github.com/Samrude1/Digital-Twin-AWS)** | Bedrock · DynamoDB · Terraform | **Memory:** Multi-modal digital twin with long-term memory and AWS serverless infra. |
+| **[ContractSense AI](https://github.com/Samrude1/SaaS_AI)** | FastAPI · Claude 3.7 · TypeScript | **Business AI:** Legal-grade contract risk analysis and PII-masking with zero-login demo. |
+| **[Sidekick AI](https://github.com/Samrude1/Agentsquad)** | LangGraph · Playwright · Python | **Autonomy:** Browser-based agent architecture using worker-evaluator patterns. |
+
+---
+
+## 🕹️ Gaming, Aviation & Creative Code
+
+While my focus is on Enterprise AI, I have a deep history in systems thinking through games and niche tools:
+
+- ✈️ **[Boeing 737 Calculator](https://github.com/Samrude1/Boeing737Calculator)**: High-precision aviation math and performance tools.
+- ♟️ **[Yes Man Chess AI](https://github.com/Samrude1/ChessAI)**: Stockfish-powered retro chess with personality-driven commentary.
+- 🏋️ **[TreeniTracker](https://github.com/Samrude1/TreeniTracker)**: Full-stack workout tracking with integrated AI coaching.
+- 🎮 **[Indie Game Portfolio](https://sr3design.itch.io/)**: 8 published titles on Itch.io (Unity, C#, JS) exploring game AI and mechanics.
+- ☢️ **[Fallout AI Chatbot](https://github.com/Samrude1/Lucky-38-Mainframe---Fallout-AI-Chatbot)**: Creative experimentation with LLM personas.
 
 ---
 
