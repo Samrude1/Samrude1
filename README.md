@@ -21,26 +21,23 @@ I architect and implement **autonomous AI agent systems** end-to-end — from cl
 
 ## 🏆 Featured AI Agent Solutions
 
-| Project | Stack | Description |
-|---|---|---|
-| **[CareAssist AI](https://github.com/Samrude1/Digital-Twin-AWS)** | AWS · SQS · Lambda · Aurora | **HealthTech:** Autonomous patient note structuring and triage for the Sote-sector. |
-| **[EngineeringTeam Crew](https://github.com/Samrude1/Agentsquad)** | CrewAI · Claude 3.7 · GPT-4 | **Automation:** Full autonomous software team drafting, coding, and testing Python apps. |
-| **[AgentSquad](https://github.com/Samrude1/Agentsquad)** | CrewAI · OpenAI SDK · Gemini | **Orchestration:** Multi-framework platform with specialized sales and research agent teams. |
-| **[Digital Twin (AWS)](https://github.com/Samrude1/Digital-Twin-AWS)** | Bedrock · DynamoDB · Terraform | **Memory:** Multi-modal digital twin with long-term memory and AWS serverless infra. |
-| **[ContractSense AI](https://github.com/Samrude1/SaaS_AI)** | FastAPI · Claude 3.7 · TypeScript | **Business AI:** Legal-grade contract risk analysis and PII-masking with zero-login demo. |
-| **[Sidekick AI](https://github.com/Samrude1/Agentsquad)** | LangGraph · Playwright · Python | **Autonomy:** Browser-based agent architecture using worker-evaluator patterns. |
+| Project | Status | Stack | Description |
+|---|---|---|---|
+| **Sidekick AI** | ✅ **Live** | LangGraph · HF · Python | **Autonomy:** Browser-based agent architecture using worker-evaluator patterns. |
+| **Digital Twin (AWS)** | ✅ **Live** | Bedrock · DynamoDB · Terraform | **Memory:** Multi-modal digital twin with long-term memory and AWS serverless infra. |
+| **EngineeringTeam Crew** | 🚀 **Coming Apr 16** | CrewAI · Claude 3.7 · GPT-4 | **Automation:** Full autonomous software team drafting, coding, and testing Python apps. |
+| **ContractSense AI** | 🏗️ **In Dev** | FastAPI · Claude 3.7 · TypeScript | **Business AI:** Legal-grade contract risk analysis and PII-masking with zero-login demo. |
+| **CareAssist AI** | 🏗️ **In Dev** | AWS · SQS · Lambda · Aurora | **HealthTech:** Autonomous patient note structuring and triage for the Sote-sector. |
 
 ---
 
-## 🕹️ Gaming, Aviation & Creative Code
+## 🕹️ Gaming & Creative Logic
 
-While my focus is on Enterprise AI, I have a deep history in systems thinking through games and niche tools:
+While my focus is on Enterprise AI, I have a deep history in systems thinking and logic through gaming:
 
-- ✈️ **[Boeing 737 Calculator](https://github.com/Samrude1/Boeing737Calculator)**: High-precision aviation math and performance tools.
-- ♟️ **[Yes Man Chess AI](https://github.com/Samrude1/ChessAI)**: Stockfish-powered retro chess with personality-driven commentary.
-- 🏋️ **[TreeniTracker](https://github.com/Samrude1/TreeniTracker)**: Full-stack workout tracking with integrated AI coaching.
-- 🎮 **[Indie Game Portfolio](https://sr3design.itch.io/)**: 8 published titles on Itch.io (Unity, C#, JS) exploring game AI and mechanics.
-- ☢️ **[Fallout AI Chatbot](https://github.com/Samrude1/Lucky-38-Mainframe---Fallout-AI-Chatbot)**: Creative experimentation with LLM personas.
+- ♟️ **Yes Man Chess AI**: Stockfish-powered retro chess with personality-driven commentary and authentic CRT effects.
+- 🎮 **[Indie Game Portfolio](https://sr3design.itch.io/)**: 8 published titles on Itch.io (Unity, C#, JS) exploring game AI, UI/UX, and complex logic patterns.
+- 🃏 **Poker Analytics Engine**: Game simulation and probability visualization tool for decision analysis.
 
 ---
 
