@@ -21,13 +21,14 @@ I architect and implement **autonomous AI agent systems** end-to-end — from cl
 
 ## 🏆 Featured AI Agent Solutions
 
-| Project | Status | Stack | Description |
-|---|---|---|---|
-| **Sidekick AI** | ✅ **Live** | LangGraph · HF · Python | **Autonomy:** Browser-based agent architecture using worker-evaluator patterns. |
-| **Digital Twin (AWS)** | ✅ **Live** | Bedrock · DynamoDB · Terraform | **Memory:** Multi-modal digital twin with long-term memory and AWS serverless infra. |
-| **EngineeringTeam Crew** | 🚀 **Coming Apr 16** | CrewAI · Claude 3.7 · GPT-4 | **Automation:** Full autonomous software team drafting, coding, and testing Python apps. |
-| **ContractSense AI** | 🏗️ **In Dev** | FastAPI · Claude 3.7 · TypeScript | **Business AI:** Legal-grade contract risk analysis and PII-masking with zero-login demo. |
-| **CareAssist AI** | 🏗️ **In Dev** | AWS · SQS · Lambda · Aurora | **HealthTech:** Autonomous patient note structuring and triage for the Sote-sector. |
+| Project                  | Status       | Stack                             | Description                                                                               |
+| ------------------------ | ------------ | --------------------------------- | ----------------------------------------------------------------------------------------- |
+| **Sidekick AI**          | ✅ **Live**   | LangGraph · HF · Python           | **Autonomy:** Browser-based agent architecture using worker-evaluator patterns.           |
+| **Digital Twin (AWS)**   | ✅ **Live**   | Bedrock · DynamoDB · Terraform    | **Memory:** Multi-modal digital twin with long-term memory and AWS serverless infra.      |
+| **EngineeringTeam Crew** | ✅ **Live**   | CrewAI · Claude 3.7 · GPT-4       | **Automation:** Full autonomous software team drafting, coding, and testing Python apps.  |
+| **AgentSquad Platform**  | 🏗️ **In Dev** | OpenAI SDK · Gemini · React       | **Intelligence:** Multi-agent platform for Sales pipelines and Deep Research.             |
+| **ContractSense AI**     | 🏗️ **In Dev** | FastAPI · Claude 3.7 · TypeScript | **Business AI:** Legal-grade contract risk analysis and PII-masking with zero-login demo. |
+| **CareAssist AI**        | 🏗️ **In Dev** | AWS · SQS · Lambda · Aurora       | **HealthTech:** Autonomous patient note structuring and triage for the Sote-sector.       |
 
 ---
 
