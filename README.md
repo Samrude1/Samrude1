@@ -1,6 +1,6 @@
 # Hi, I'm Sami Rautanen 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&width=500&lines=AI+Platform+Engineer;AWS+Serverless+%7C+Terraform+%7C+IaC;Autonomous+Agent+Systems;Multi-Agent+Orchestration)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&width=500&lines=AI+Engineer;AWS+Serverless+%7C+Terraform+%7C+IaC;Autonomous+Agent+Systems;Multi-Agent+Orchestration)
 
 **Building production-grade AI systems and autonomous agent architectures.**
 
@@ -15,7 +15,7 @@ I architect and implement **autonomous AI agent systems** end-to-end — from cl
 
 - 🤖 **Agentic Systems** — Multi-agent orchestration with CrewAI, LangGraph & MCP
 - ☁️ **AWS Serverless** — Lambda, SQS, DynamoDB, S3 Vectors, Bedrock (Terraform managed)
-- 🌐 **Full-Stack AI Apps** — Next.js 15 frontends backed by FastAPI agent pipelines
+- 🌐 **Full-Stack AI Apps** — Next.js 16 frontends backed by FastAPI agent pipelines
 
 ---
 
@@ -62,7 +62,7 @@ While my focus is on Enterprise AI, I have a deep history in systems thinking an
 
 **Frontend & Backend**
 
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
