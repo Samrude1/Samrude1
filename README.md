@@ -68,11 +68,11 @@ While my focus is on Enterprise AI, I have a deep history in systems thinking an
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Overview
 
-![Sami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samrude1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samrude1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)
+- 🚀 **39+ Repositories** — Autonomous agent systems, full-stack web apps, and game logic
+- ⚡ **Core Focus** — Multi-agent orchestration, AWS serverless architectures, and end-to-end deployments
+- 🛠️ **CI/CD Driven** — Automated production workflows via GitHub Actions and Terraform IaC
 
 ---
 
