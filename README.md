@@ -1,21 +1,39 @@
-# Hi, I'm Sami Rautanen 👋
+# Sami Rautanen - AI Engineer
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&width=500&lines=AI+Engineer;AWS+Serverless+%7C+Terraform+%7C+IaC;Autonomous+Agent+Systems;Multi-Agent+Orchestration)
 
 **Building production-grade AI systems and autonomous agent architectures.**
 
-[![samirautanen.fi](https://img.shields.io/badge/samirautanen.fi-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://samirautanen.fi)
+[![Portfolio](https://img.shields.io/badge/Live-samirautanen.fi-blue)](https://samirautanen.fi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sami-rautanen-022095325)
 
 ---
 
-## 🤖 What I Build
+## 🏗️ What I Build
 
 I architect and implement **autonomous AI agent systems** end-to-end — from cloud infrastructure to production deployment. My focus is on systems that solve real business problems, not tutorials.
 
 - 🤖 **Agentic Systems** — Multi-agent orchestration with CrewAI, LangGraph & MCP
 - ☁️ **AWS Serverless** — Lambda, SQS, DynamoDB, S3 Vectors, Bedrock (Terraform managed)
 - 🌐 **Full-Stack AI Apps** — Next.js 16 frontends backed by FastAPI agent pipelines
+
+---
+
+## 📊 Integrated Portfolio Architecture
+
+The main portfolio site (samirautanen.fi) operates on a highly optimized Vercel/Render stack for performance and cost-efficiency:
+
+```mermaid
+graph TD
+    User((User)) -->|HTTPS| Frontend[Next.js 16 Frontend - Vercel]
+    Frontend -->|POST /chat| BackendAPI[FastAPI Backend - Render]
+    
+    subgraph "AI Logic Layer (Render Hosted)"
+        BackendAPI -->|Orchestration| Agent[GPT-4o-mini]
+        Agent -->|Memory| Memory[(Persistent JSON/SQL)]
+        Agent -->|Inference| AI[Google AI / OpenAI API]
+    end
+```
 
 ---
 
@@ -27,8 +45,8 @@ I architect and implement **autonomous AI agent systems** end-to-end — from cl
 | **Digital Twin (AWS)**   | ✅ **Live**   | Bedrock · DynamoDB · Terraform    | **Memory:** Multi-modal digital twin with long-term memory and AWS serverless infra.      |
 | **EngineeringTeam Crew** | ✅ **Live**   | CrewAI · Claude 3.7 · GPT-4       | **Automation:** Full autonomous software team drafting, coding, and testing Python apps.  |
 | **AgentSquad Platform**  | ✅ **Live**   | OpenAI SDK · Gemini · React       | **Intelligence:** Multi-agent platform for Sales pipelines and Deep Research.             |
-| **ContractSense AI**     | 🏗️ **In Dev** | FastAPI · Claude 3.7 · TypeScript | **Business AI:** Legal-grade contract risk analysis and PII-masking with zero-login demo. |
-| **CareAssist AI**        | 🏗️ **In Dev** | AWS · SQS · Lambda · Aurora       | **HealthTech:** Autonomous patient note structuring and triage for the Sote-sector.       |
+| **Agentic Architect**           | 📦 **Open Source** | Next.js 16 · React Flow · Prisma  | **Architecture AI:** Interactive 4-tier system visualizer and automatic Prisma/API/UI code generator. |
+| **Agentic Fullstack Template**  | 📦 **Open Source** | TypeScript · Python · CI/CD · OWASP | **Cognitive OS:** Studio-grade governance template & 17 skills for autonomous coding agents. |
 
 ---
 
@@ -68,14 +86,12 @@ While my focus is on Enterprise AI, I have a deep history in systems thinking an
 
 ---
 
-## 📊 Overview
+## 🤝 Connect
 
-- 🚀 **39+ Repositories** — Autonomous agent systems, full-stack web apps, and game logic
-- ⚡ **Core Focus** — Multi-agent orchestration, AWS serverless architectures, and end-to-end deployments
-- 🛠️ **CI/CD Driven** — Automated production workflows via GitHub Actions and Terraform IaC
+- **LinkedIn**: [Sami Rautanen](https://linkedin.com/in/sami-rautanen-022095325)
+- **GitHub**: [@Samrude1](https://github.com/Samrude1)
+- **Email**: samrude1@outlook.com
+- **Website**: [samirautanen.fi](https://samirautanen.fi)
 
 ---
-
-*"Building systems that think, reason and act autonomously."*
-
-📬 samrude1@outlook.com
+**AI Engineering & Cloud Architecture**
